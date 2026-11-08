@@ -1,0 +1,6 @@
+@homework2aspnet_HostAddress = http://localhost:5059
+
+GET {{homework2aspnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
